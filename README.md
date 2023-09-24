@@ -1,7 +1,7 @@
 # A visual introduction to quantum optics
 *Quantum Science at Purdue 2023*
 
-Every natural phenomenon has a quantum analogue, from the quantum of light (a photon) to the quantum of sound (a phonon). In this workshop, we use the qutip Python package to simulate quantum systems. 
+From the quantum of light (the photon) to the quantum of sound (the phonon) every natural phenomenon has a quantum analogue. And with a handful of simple tools, anyone can simulate the quantum world! In this workshop, we use the QuTiP Python package to simulate several interesting systems and gain intuition about quantum mechanics. 
 
 ## Installation
 1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
